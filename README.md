@@ -2,7 +2,7 @@
 by Michael Iliadis, Haohong Wang, Rafael Molina, Aggelos K. Katsaggelos, published on *Transactions on Image Processing, May 21017* and [ArXiv](https://arxiv.org/abs/1605.02266). Details are in [project page](http://users.eecs.northwestern.edu/~mif365/jekyll/content/publications/2015/face_occlusion.html)
 
 ### Introduction
-The code provides MATLAB implementation of the F-LR-IRNNLS and the F-IRNNLS algorithm which is a fast version of the RRC ([Regularized robust coding for face recognition])(http://ieeexplore.ieee.org/document/6392275/) algorithm (with non-negative representation coefficients - but it's easy to adapt it to L2 or L1 coeff.)
+The code provides MATLAB implementation of the F-LR-IRNNLS and the F-IRNNLS algorithm which is a fast version of the RRC [Regularized robust coding for face recognition](http://ieeexplore.ieee.org/document/6392275/) algorithm (with non-negative representation coefficients - but it's easy to adapt it to L2 or L1 coeff.)
 
 ### Usage
 
